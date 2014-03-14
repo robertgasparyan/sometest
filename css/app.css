@@ -1,0 +1,14 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+.intro-block {
+    background:url('../images/stardust.png') repeat;
+    padding:100px 15px 60px;
+    color:#fff;
+}
+.text-muted {
+    color:#e9e6df;
+}
+.tpad {
+    padding-top:20px;
+}
