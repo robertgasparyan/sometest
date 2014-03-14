@@ -64,10 +64,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="testfile.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="testfile.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testfile.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="52" selection-start="2281" selection-end="2281" vertical-scroll-proportion="0.7633851" vertical-offset="459" max-vertical-offset="1683">
+            <state line="91" column="7" selection-start="3822" selection-end="3822" vertical-scroll-proportion="-17.038462" vertical-offset="1104" max-vertical-offset="1683">
               <folding />
             </state>
           </provider>
@@ -76,7 +76,7 @@
       <file leaf-file-name="bluemasters.info" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../revolution/cashier/bootstrap/bluemasters.info">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="76" selection-start="2006" selection-end="2006" vertical-scroll-proportion="0.0" vertical-offset="833" max-vertical-offset="1547">
+            <state line="76" column="0" selection-start="3346" selection-end="3346" vertical-scroll-proportion="0.0" vertical-offset="833" max-vertical-offset="1547">
               <folding />
             </state>
           </provider>
@@ -118,10 +118,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="custom.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/custom.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="2" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="136">
+            <state line="6" column="4" selection-start="140" selection-end="140" vertical-scroll-proportion="0.16504854" vertical-offset="0" max-vertical-offset="618">
               <folding />
             </state>
           </provider>
@@ -137,13 +137,13 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/js/custom.js" />
         <option value="$PROJECT_DIR$/css/app.css" />
         <option value="$PROJECT_DIR$/../../revolution/cashier/bootstrap/bluemasters.info" />
         <option value="$PROJECT_DIR$/../../revolution/cashier/bootstrap/cashier.css" />
         <option value="$PROJECT_DIR$/../../revolution/cashier/bootstrap/bootstrap.css" />
         <option value="$PROJECT_DIR$/../../revolution/cashier/bootstrap/header.inc.php" />
         <option value="$PROJECT_DIR$/testfile.html" />
+        <option value="$PROJECT_DIR$/js/custom.js" />
       </list>
     </option>
   </component>
@@ -198,6 +198,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Bootstrap3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bootstrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bootstrap3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -479,15 +493,15 @@
       <workItem from="1394538547824" duration="2807000" />
       <workItem from="1394603005061" duration="1667000" />
       <workItem from="1394778183544" duration="4587000" />
-      <workItem from="1394794209542" duration="1280000" />
+      <workItem from="1394794209542" duration="4731000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45253000" />
+    <option name="totallyTimeSpent" value="48704000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1934" height="1066" extended-state="0" />
+    <frame x="-8" y="0" width="1934" height="1066" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -800,26 +814,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../revolution/cashier/bootstrap/bluemasters.info">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="76" selection-start="2006" selection-end="2006" vertical-scroll-proportion="0.0" vertical-offset="816" max-vertical-offset="1547">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../revolution/cashier/bootstrap/header.inc.php">
       <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="155" column="33" selection-start="7969" selection-end="7969" vertical-scroll-proportion="0.0" vertical-offset="2635" max-vertical-offset="20400">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="2" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="136">
           <folding />
         </state>
       </provider>
@@ -831,9 +831,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../revolution/cashier/bootstrap/bluemasters.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="0" selection-start="3346" selection-end="3346" vertical-scroll-proportion="0.0" vertical-offset="833" max-vertical-offset="1547">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/testfile.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="52" selection-start="2281" selection-end="2281" vertical-scroll-proportion="0.7633851" vertical-offset="459" max-vertical-offset="1683">
+        <state line="91" column="7" selection-start="3822" selection-end="3822" vertical-scroll-proportion="-17.038462" vertical-offset="1104" max-vertical-offset="1683">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="4" selection-start="140" selection-end="140" vertical-scroll-proportion="0.16504854" vertical-offset="0" max-vertical-offset="618">
           <folding />
         </state>
       </provider>

@@ -3,7 +3,7 @@ jQuery(document).ready(function() {
 
     var localTemplate = 1;
     var temp = 1;
-    var localHost = "127."
+    var localHost = "127.0.0.1";
     
 
 })
